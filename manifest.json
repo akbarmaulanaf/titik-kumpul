@@ -8,7 +8,7 @@
   "description": "Tikum - Story sharing app with offline support.",
   "icons": [
     {
-      "src": "/images/logo.png",
+      "src": "images/logo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
@@ -19,18 +19,18 @@
       "short_name": "Add",
       "description": "Quickly add a new story",
       "url": "/#/add-story",
-      "icons": [{ "src": "/images/logo.png", "sizes": "512x512" }]
+      "icons": [{ "src": "images/logo.png", "sizes": "512x512" }]
     }
   ],
   "screenshots": [
     {
-      "src": "/images/mobile.png",
+      "src": "images/mobile.png",
       "sizes": "540x720",
       "type": "image/png",
       "form_factor": "narrow"
     },
     {
-      "src": "/images/desktop.png",
+      "src": "images/desktop.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide"
