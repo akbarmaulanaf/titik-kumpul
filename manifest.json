@@ -1,0 +1,39 @@
+{
+  "name": "Tikum",
+  "short_name": "Tikum",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f5f5dc",
+  "theme_color": "#8b4513",
+  "description": "Tikum - Story sharing app with offline support.",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Add Story",
+      "short_name": "Add",
+      "description": "Quickly add a new story",
+      "url": "/#/add-story",
+      "icons": [{ "src": "/images/logo.png", "sizes": "512x512" }]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/mobile.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/images/desktop.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}
