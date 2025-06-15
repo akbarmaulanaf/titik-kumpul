@@ -2,6 +2,7 @@
   "name": "Tikum",
   "short_name": "Tikum",
   "start_url": ".",
+  "scope": ".",
   "display": "standalone",
   "background_color": "#f5f5dc",
   "theme_color": "#8b4513",
@@ -18,7 +19,7 @@
       "name": "Add Story",
       "short_name": "Add",
       "description": "Quickly add a new story",
-      "url": "/#/add-story",
+      "url": "./#/add-story",
       "icons": [{ "src": "images/logo.png", "sizes": "512x512" }]
     }
   ],
